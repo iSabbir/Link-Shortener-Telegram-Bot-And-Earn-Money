@@ -23,7 +23,7 @@
     <ul>
         <li>Python >= 3.7</li>
         <li>A <a href="https://core.telegram.org/bots">Telegram Bot Token</a></li>
-        <li><a href="#list">Website Lists</a> API key</li>
+        <li><a href="#-website-lists">Website Lists</a> API key</li>
     </ul>
 <h2> Website Lists🌟</h2>
     <ul>
