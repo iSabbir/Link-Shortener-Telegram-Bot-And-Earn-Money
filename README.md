@@ -3,10 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Link Shortener Bot</title>
-    <style>
-        /* Add any custom styles you want here */
-    </style>
 </head>
 <body>
 
@@ -27,7 +23,7 @@
     <ul>
         <li>Python >= 3.7</li>
         <li>A <a href="https://core.telegram.org/bots">Telegram Bot Token</a></li>
-        <li><a href="https://gplinks.in/">GPLinks</a> API key</li>
+        <li><a href="#list">Website Lists</a> API key</li>
     </ul>
 
 <h3>Steps</h3>
@@ -45,11 +41,11 @@
                 <li><code>API_ID</code>: Your API ID from Telegram</li>
                 <li><code>API_HASH</code>: Your API Hash from Telegram</li>
                 <li><code>BOT_TOKEN</code>: Your Bot token from @BotFather</li>
-                <li><code>API_KEY</code>: Your GPLinks API key</li>
+                <li><code>API_KEY</code>: Your Shortener API key</li>
             </ul>
         </li>
         <li><strong>Run the bot</strong><br>
-            <code>python bot_script.py</code>
+            <code>python main.py</code>
         </li>
     </ol>
 
