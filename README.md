@@ -25,7 +25,19 @@
         <li>A <a href="https://core.telegram.org/bots">Telegram Bot Token</a></li>
         <li><a href="#list">Website Lists</a> API key</li>
     </ul>
-
+<h2> Website Lists🌟</h2>
+    <ul>
+        <li> https://gplinks.in/api</li>
+        <li> https://ez4short.com//api</li>
+        <li> https://za.gl/api</li>
+        <li> https://droplink.co/api</li>
+        <li>https://tnlink.in/api</li>
+        <li>https://dulink.in/api</li>
+        <li>https://pdiskshortener.com/api</li>
+        <li>https://mdiskshortner.link/api	</li>
+        <li>https://easysky.in/api</li>
+        <li>https://clickyfly.com/api</li>
+    </ul>
 <h3>Steps</h3>
     <ol>
         <li><strong>Clone the Repository</strong><br>
