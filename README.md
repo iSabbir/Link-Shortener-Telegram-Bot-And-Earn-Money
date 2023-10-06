@@ -10,11 +10,11 @@
 </head>
 <body>
 
-    <h1>Link Shortener Bot 🚀</h1>
+<h1>Link Shortener Bot 🚀</h1>
     <p>A Telegram bot designed to shorten long URLs using the GPLinks API.</p>
     <img src="path-to-banner-image.png" alt="Link Shortener Bot Banner">
 
-    <h2>Features 🌟</h2>
+<h2>Features 🌟</h2>
     <ul>
         <li>Fast and efficient link shortening.</li>
         <li>Handles multiple links in one go.</li>
@@ -22,7 +22,7 @@
         <li>Sleek and interactive inline keyboard buttons.</li>
     </ul>
 
-    <h2>Setup and Installation ⚙️</h2>
+<h2>Setup and Installation ⚙️</h2>
     <h3>Prerequisites</h3>
     <ul>
         <li>Python >= 3.7</li>
@@ -30,7 +30,7 @@
         <li><a href="https://gplinks.in/">GPLinks</a> API key</li>
     </ul>
 
-    <h3>Steps</h3>
+<h3>Steps</h3>
     <ol>
         <li><strong>Clone the Repository</strong><br>
             <code>git clone https://github.com/iSabbir/Link-Shortener-Telegram-Bot-And-Earn-Money.git</code><br>
@@ -53,25 +53,25 @@
         </li>
     </ol>
 
-    <h2>Usage 🚦</h2>
+<h2>Usage 🚦</h2>
     <ul>
         <li>Start the bot: <code>/start</code></li>
         <li>Send any link(s) to get them shortened!</li>
     </ul>
 
-    <h2>Contributing 🤝</h2>
+ <h2>Contributing 🤝</h2>
     <p>Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.</p>
 
-    <h2>License 📜</h2>
+ <h2>License 📜</h2>
     <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-    <h2>Developer 💻</h2>
+ <h2>Developer 💻</h2>
     <ul>
         <li><a href="https://t.me/BDBots">BDBots</a></li>
         <li><a href="https://github.com/iSabbir">iSabbir on GitHub</a></li>
     </ul>
 
-    <p>🌟 Don't forget to star this repository if you found it helpful! 🌟</p>
+ <p>🌟 Don't forget to star this repository if you found it helpful! 🌟</p>
 
 </body>
 </html>
