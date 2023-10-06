@@ -7,7 +7,7 @@
 <body>
 
 <h1>Link Shortener Bot 🚀</h1>
-    <p>A Telegram bot designed to shorten long URLs using the GPLinks API.</p>
+    <p>A Telegram bot designed to shorten long URLs using the GPLinks API.</p><br><br>
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi37WgdS6Tu1fTOB61uZzH1ulyw716bGtlInilU2OaChqJwdCiIqYn19icyJNhP8kIRFZdBMF0wfedtnhRvIrPwpcxnlMoCV_Bdh6N0gbgCj9VI9dUFQ1MhiHv3DD1lxXOp36CSpaZsXNhZtk4SkUmJyAXZ14qtKnvmoUg7Bsg4Rp23gGaCkRHs8YWJsZ8/s1600/workout.jpg" alt="Link Shortener Bot Banner">
 
 <h2>Features 🌟</h2>
